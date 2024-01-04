@@ -1,1 +1,1 @@
-touch foo.txt
+touch ~/foo.txt
